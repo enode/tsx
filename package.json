@@ -57,7 +57,7 @@
 	"packageManager": "pnpm@9.11.0",
 	"homepage": "https://tsx.is",
 	"scripts": {
-		"build": "pkgroll --minify",
+		"build": "pkgroll --clean-dist",
 		"lint": "lintroll --node --cache --ignore-pattern 'docs/*.md' .",
 		"type-check": "tsc",
 		"test": "pnpm build && node ./dist/cli.mjs tests/index.ts",

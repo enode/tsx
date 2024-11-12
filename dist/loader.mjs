@@ -1,0 +1,23 @@
+import { r as require } from './get-pipe-path-D2pYDmQS.mjs';
+export { globalPreload, initialize, load, resolve } from './esm/index.mjs';
+import 'module';
+import 'node:path';
+import './temporary-directory-CM_Hq0H1.mjs';
+import 'node:os';
+import 'node:worker_threads';
+import './node-features-Bye2pwSD.mjs';
+import './register-B_JUAKoE.mjs';
+import 'node:module';
+import './register-BaEVGEKQ.mjs';
+import 'node:url';
+import 'get-tsconfig';
+import 'node:fs';
+import './index-CI_rqePr.mjs';
+import 'esbuild';
+import 'node:crypto';
+import './client-Cg5Bp24g.mjs';
+import 'node:net';
+import './require-BX8UoeTJ.mjs';
+import 'node:fs/promises';
+
+require("./cjs/index.cjs");
